@@ -1,4 +1,5 @@
 # Minimum Vertex Cover Probelm using QAOA
 
-## Reference
-> https://www.sciencedirect.com/science/article/pii/S1568494622000795
+## Citation
+
+> https://doi.org/10.1016/j.asoc.2022.108554
